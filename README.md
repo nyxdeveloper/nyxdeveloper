@@ -29,5 +29,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=40&duration=580&color=0CF7E1&multiline=true&height=700&lines=Postman;Google+Cloud;Firebase;Redis;Linux;MySQL;Docker;Jupyter" style="fill: #5652c4;"  title="tech2" alt="tech2" width="400" height="700"/>&nbsp;
 </p>
 
-
-
+<hr>
+<h1>Open to open source projects and happy to be part of a budding development team.</h1>
+<h1>And I also really like to launch startups, so I myself can offer to participate in my projects. 😁</h1>
