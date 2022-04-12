@@ -24,7 +24,7 @@
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=40&duration=650&color=D33DF7&multiline=true&height=700&lines=Python;Pandas;NumPy;Django;FastAPI;Flask;PostgreSQL" style="fill: #5652c4;" title="tech1" alt="tech1" width="400" height="700"/>&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=40&duration=630&color=0CF7E1&multiline=true&height=700&lines=Postman;Google+Cloud;Firebase;Redis;Linux;MySQL;Docker;Jupyter" style="fill: #5652c4;"  title="tech2" alt="tech2" width="400" height="700"/>&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=40&duration=600&color=0CF7E1&multiline=true&height=700&lines=Postman;Google+Cloud;Firebase;Redis;Linux;MySQL;Docker;Jupyter" style="fill: #5652c4;"  title="tech2" alt="tech2" width="400" height="700"/>&nbsp;
 </p>
 
 
