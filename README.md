@@ -21,7 +21,16 @@
 <img src="https://simpleicons.org/icons/jupyter.svg" style="fill: #5652c4;" title="Jupyter" alt="Jupyter" width="70" height="70"/>&nbsp;
 </div>
 <hr>
+<div>
+  <row>
+    <col>
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=40&duration=600&color=D33DF7&multiline=true&height=700&lines=Python;Pandas;NumPy;Django;FastAPI;Flask;PostgreSQL;Postman;Google+Cloud;Firebase;Redis;Linux;MySQL;Docker;Jupyter)](https://git.io/typing-svg)
+    </col>
+  <col>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=40&duration=500&color=D33DF7&multiline=true&height=700&lines=Python;Pandas;NumPy;Django;FastAPI;Flask;PostgreSQL;Postman;Google+Cloud;Firebase;Redis;Linux;MySQL;Docker;Jupyter)](https://git.io/typing-svg)
+  </col>
+  </row>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=40&duration=600&color=D33DF7&multiline=true&height=700&lines=Python;Pandas;NumPy;Django;FastAPI;Flask;PostgreSQL;Postman;Google+Cloud;Firebase;Redis;Linux;MySQL;Docker;Jupyter)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=40&duration=500&color=D33DF7&multiline=true&height=700&lines=Python;Pandas;NumPy;Django;FastAPI;Flask;PostgreSQL;Postman;Google+Cloud;Firebase;Redis;Linux;MySQL;Docker;Jupyter)](https://git.io/typing-svg)
+
