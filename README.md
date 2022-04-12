@@ -31,4 +31,4 @@
 
 <hr>
 <h1>Open to open source projects and happy to be part of a budding development team.</h1>
-<h1>And I also really like to launch startups, so I myself can offer to participate in my projects. 😁</h1>
+<h1>And I also really like to launch startups, so I myself can offer to participate in my projects. 😊</h1>
