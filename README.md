@@ -6,21 +6,21 @@
 
 <hr>
 <div>
-<img src="https://simpleicons.org/icons/python.svg" style="color: #5652c4;" title="Python" alt="Python" width="70" height="70"/>&nbsp;
-<img src="https://simpleicons.org/icons/pandas.svg" style="color: #5652c4;"  title="Pandas" alt="Pandas" width="70" height="70"/>&nbsp;
-<img src="https://simpleicons.org/icons/numpy.svg" style="color: #5652c4;"  title="NumPy" alt="NumPy" width="70" height="70"/>&nbsp;
-<img src="https://simpleicons.org/icons/django.svg" style="color: #5652c4;" title="Django" alt="Django" width="70" height="70"/>&nbsp;
-<img src="https://simpleicons.org/icons/fastapi.svg" style="color: #5652c4;" title="FastAPI" alt="FastAPI" width="70" height="70"/>&nbsp;
-<img src="https://simpleicons.org/icons/flask.svg" style="color: #5652c4;" title="Flask" alt="Flask" width="70" height="70"/>&nbsp;
-<img src="https://simpleicons.org/icons/postgresql.svg" style="color: #5652c4;"  title="PostgreSQL" alt="PostgreSQL" width="70" height="70"/>&nbsp;
-<img src="https://simpleicons.org/icons/postman.svg" style="color: #5652c4;" title="Postman" alt="Postman" width="70" height="70"/>&nbsp;
-<img src="https://simpleicons.org/icons/firebase.svg" style="color: #5652c4;" title="Firebase" alt="Firebase" width="70" height="70"/>&nbsp;
-<img src="https://simpleicons.org/icons/googlecloud.svg" color="fill: #5652c4;" title="Google Cloud" alt="Google Cloud" width="70" height="70"/>&nbsp;
-<img src="https://simpleicons.org/icons/redis.svg" style="color: #5652c4;" title="Redis" alt="Redis" width="70" height="70"/>&nbsp;
-<img src="https://simpleicons.org/icons/linux.svg" style="color: #5652c4;" title="Linux" alt="Linux" width="70" height="70"/>&nbsp;
-<img src="https://simpleicons.org/icons/mysql.svg" style="color: #5652c4;" title="MySQL" alt="MySQL" width="70" height="70"/>&nbsp;
-<img src="https://simpleicons.org/icons/docker.svg" style="color: #5652c4;" title="Docker" alt="Docker" width="70" height="70"/>&nbsp;
-<img src="https://simpleicons.org/icons/jupyter.svg" style="color: #5652c4;" title="Jupyter" alt="Jupyter" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  title="Python" alt="Python" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"  title="Pandas" alt="Pandas" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"  title="NumPy" alt="NumPy" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  title="Django" alt="Django" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"  title="FastAPI" alt="FastAPI" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"  title="Flask" alt="Flask" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  title="PostgreSQL" alt="PostgreSQL" width="70" height="70"/>&nbsp;
+  <img src="https://simpleicons.org/icons/postman.svg" title="Postman" alt="Postman" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="Google Cloud" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="70" height="70"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="70" height="70"/>&nbsp;
 </div>
 <hr>
 
